@@ -15,4 +15,4 @@ Where:
   Represents the type of profile order effect simulated.
 
 - `Kappa` ∈ {`1`, `0.3`, `0.1`}  
-  Represents the strength of the order effect.
+  Represents the value of the parameter κ.
